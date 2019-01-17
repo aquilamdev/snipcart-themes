@@ -28,7 +28,7 @@
 }
 
 /* Remove the footer with "Powered by Snipcart" */
-.snipcart-overwrite #snipcart-footer {
+.snipcart-overwrite {
     display: none;
 }
 
