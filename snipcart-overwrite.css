@@ -27,10 +27,6 @@
     color: #333;
 }
 
-/* Remove the footer with "Powered by Snipcart" */
-.snipcart-overwrite {
-    display: none;
-}
 
 /* Change the title color and add a logo*/
 .snipcart-overwrite #snipcart-header #snipcart-title {
